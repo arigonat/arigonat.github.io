@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
-  <img src="/images/le.png" alt="Alessia Rigonat" style="width: 200px; border-radius: 10px;">
+  <img src="/images/profile_pic.jpeg" alt="Alessia Rigonat" style="width: 200px; border-radius: 10px;">
   <div>
     <p>
 
