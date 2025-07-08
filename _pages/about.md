@@ -7,16 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
-  <img src="/images/profile_pic.jpeg" alt="Alessia Rigonat" style="width: 200px; border-radius: 10px;">
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+
   <div>
-    <p>
-
-I am currently a PhD candidate at INRIA and DI ENS Paris, specializing in stochastic models for shared transport systems.  
-I am supervised by Christine Fricker and Hanene Mohamed.
-
-I pursued  a bachelor's degree in Mathematics at the University of Trento, Italy.  Then I obtained a master’s degree in Applied Probability and Statistics jointly pursued at the University of Trento and Sorbonne University in Paris
-
-</p>
+    <img src="/images/le.jpeg" alt="Alessia Rigonat" style="max-width: 200px; border-radius: 10px;">
   </div>
+
+  <div style="flex: 1;">
+    <h1>About me</h1>
+    <p>
+      I am currently a PhD candidate at INRIA and DI ENS Paris, specializing in stochastic models for shared transport systems. I am supervised by Christine Fricker and Hanene Mohamed.
+    </p>
+  </div>
+
 </div>
