@@ -20,6 +20,8 @@ redirect_from:
       My research focuses on stochastic networks, queuing theory and multi-scale Markov processes.
       I am supervised by <a href="https://team.inria.fr/rap/members/fricker/" target="_blank">Christine Fricker</a> and <a href="https://mohamed.perso.math.cnrs.fr/" target="_blank">Hanene Mohamed</a>.
 
+      Here is my [CV](files/CV_AlessiaRigonat.pdf){:target="_blank"}.
+
       
     </p>
     
