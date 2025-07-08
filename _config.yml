@@ -13,7 +13,7 @@ title                    : "Alessia Rigonat"
 title_separator          : "-"
 name                     : &name "Alessia Rigonat"
 description              : &description "I am currently a PhD candidate at INRIA and DI ENS Paris, specializing in stochastic models for shared transport systems, I am supervised by Christine Fricker and Hanene Mohamed."
-url                      : https://arigonat.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : "https://arigonat.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
