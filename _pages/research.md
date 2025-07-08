@@ -11,7 +11,7 @@ author_profile: false
   with Christine Fricker and Hanene Mohamed, [hal-04714886](https://hal.science/hal-04714886), accepted in *QUESTA*.
 
 - **A new stochastic model for car-sharing suited to free-floating**, WCTR2023, *Transportation Research Procedia*, 82, 2395–2409, 2025  
-  with Christine Fricker, Hanene Mohamed and Martin Trepanier, DOI.
+  with Christine Fricker, Hanene Mohamed and Martin Trepanier, [DOI](https://www.google.com/url?q=https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS2352146524004939&sa=D).
 
 
 
