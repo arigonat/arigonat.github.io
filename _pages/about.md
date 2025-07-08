@@ -23,9 +23,16 @@ redirect_from:
 <br>
       Here is my <a href="/files/CV_AlessiaRigonat.pdf" target="_blank" rel="noopener noreferrer">CV</a>.
 
-      
+    
     </p>
     
+    <h2>Contatti</h2>
+    <ul>
+      <li><strong>Email:</strong> <a href="mailto:alessia.rigonat@inria.fr">alessia.rigonat@inria.fr</a></li>
+      <li><strong>Ufficio:</strong> Edificio 12, Stanza 345</li>
+      <li><strong>Indirizzo:</strong> Via Roma 123, 00100 Roma, Italia</li>
+      </ul> 
+      
   </div>
 
 </div>
