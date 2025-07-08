@@ -26,7 +26,7 @@ redirect_from:
     
     </p>
     
-    <h2 style="margin-bottom: 0.2em;">Contact</h2>
+    <h2 style="margin-bottom: 0.2em; border-bottom: none; box-shadow: none;">Contact</h2>
 <p style="margin: 0;"> <a href="mailto:alessia.rigonat@inria.fr">alessia.rigonat@inria.fr</a></p>
 <p style="margin: 0;">INRIA Paris</p>
 <p style="margin: 0;">48 rue Barrault, 75013, Paris, France</p>
