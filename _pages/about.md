@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# About me
+
 
 I am currently a PhD candidate at INRIA and DI ENS Paris, specializing in stochastic models for shared transport systems.
 I am supervised by Christine Fricker and Hanene Mohamed.
