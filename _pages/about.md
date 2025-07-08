@@ -16,18 +16,13 @@ redirect_from:
   <div style="flex: 1;">
     <h1>About me</h1>
     <p>
-      I am currently a PhD candidate at INRIA and DI ENS Paris, specializing in stochastic models for shared transport systems, under the supervision of Christine Fricker and Hanene Mohamed.
+      I am currently a PhD candidate at INRIA and DI ENS Paris, working in the MATHNET group.
+      My research focuses on stochastic networks, queuing theory and multi-scale Markov processes.
+      I am supervised by Christine Fricker and Hanene Mohamed.
 
-      I pursued  a bachelor's degree in Mathematics at the University of Trento, Italy.  Then I obtained a master’s degree in Applied Probability and Statistics jointly pursued at the University of Trento and Sorbonne University in Paris.
-
+      
     </p>
-    <h2>Scientific Interests</h2>
-    <ul>
-      <li>Stochastic networks</li>
-      <li>Queuing theory</li>
-      <li>Particle systems</li>
-      <li>Multi-scale Markov processes</li>
-    </ul>
+    
   </div>
 
 </div>
