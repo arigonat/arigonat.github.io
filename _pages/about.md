@@ -26,7 +26,7 @@ redirect_from:
     
     </p>
     
-    <h2>Contatti</h2>
+    <h2>Contact</h2>
     <ul>
       <li><strong>Email:</strong> <a href="mailto:alessia.rigonat@inria.fr">alessia.rigonat@inria.fr</a></li>
       <li><strong>Ufficio:</strong> Edificio 12, Stanza 345</li>
