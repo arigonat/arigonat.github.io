@@ -26,12 +26,10 @@ redirect_from:
     
     </p>
     
-    <h2>Contact</h2>
-    <ul>
-      <li><a href="mailto:alessia.rigonat@inria.fr">alessia.rigonat@inria.fr</a></li>
-      <li>INRIA Paris</li>
-      <li>48 rue Barrault, 75013, Paris, France</li>
-      </ul> 
+    <p><h2>Contact</h2></p>
+    <p><a href="mailto:alessia.rigonat@inria.fr">alessia.rigonat@inria.fr</a></p>
+<p>INRIA Paris</p>
+<p>48 rue Barrault, 75013, Paris, France</p>
       
   </div>
 
