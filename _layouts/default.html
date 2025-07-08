@@ -9,12 +9,23 @@ layout: compress
   <head>
     {% include head.html %}
     {% include head/custom.html %}
+    <!doctype html>
+<html lang="{{ site.locale | slice: 0,2 }}" class="no-js"{% if site.site_theme == "dark" %} data-theme="dark"{% endif %}>
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
     <style>
   body {
     color: #000000 !important;
   }
   </style>
   </head>
+
+  <body>
+
+    {% include browser-upgrade.html %}
+    {% include masthead.html %}
+
 
   <body>
 
