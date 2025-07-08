@@ -28,9 +28,9 @@ redirect_from:
     
     <h2>Contact</h2>
     <ul>
-      <li><strong>Email:</strong> <a href="mailto:alessia.rigonat@inria.fr">alessia.rigonat@inria.fr</a></li>
-      <li><strong>Ufficio:</strong> Edificio 12, Stanza 345</li>
-      <li><strong>Indirizzo:</strong> Via Roma 123, 00100 Roma, Italia</li>
+      <li><a href="mailto:alessia.rigonat@inria.fr">alessia.rigonat@inria.fr</a></li>
+      <li>INRIA Paris</li>
+      <li>48 rue Barrault, 75013, Paris, France</li>
       </ul> 
       
   </div>
