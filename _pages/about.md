@@ -10,7 +10,7 @@ redirect_from:
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 
   <div>
-    <img src="/images/profile_pic.jpeg" alt="Alessia Rigonat" style="max-width: 200px; border-radius: 10px;">
+    <img src="/images/prifile_pict.JPEG" alt="Alessia Rigonat" style="max-width: 200px; border-radius: 10px;">
   </div>
 
   <div style="flex: 1;">
