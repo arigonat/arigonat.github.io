@@ -8,7 +8,7 @@ author_profile: false
 ## Publications and Preprints
 
 - **Stochastic averaging and mean-field for a large system with fast varying environment with applications to free-floating car-sharing**,  
-  with Christine Fricker and Hanene Mohamed, <a href="https://hal.science/hal-04714886" target="_blank">hal-04714886</a>, accepted in *QUESTA*
+  with Christine Fricker and Hanene Mohamed, <a href="https://hal.science/hal-04714886" target="_blank">hal-04714886</a>, in *QUESTA*
 
 - **A new stochastic model for car-sharing suited to free-floating**, WCTR2023, *Transportation Research Procedia*, 82, 2395–2409, 2025  
   with Christine Fricker, Hanene Mohamed and Martin Trepanier, <a href="https://www.google.com/url?q=https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS2352146524004939&sa=D" target="_blank">DOI</a>.
