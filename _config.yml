@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "le.png"
+  avatar           : "images/prifile_pict.JPEG"
   name             : "Alessia Rigonat"
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
