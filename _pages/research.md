@@ -7,11 +7,11 @@ author_profile: false
 
 ## Publications and Preprints
 
-- **Large-scale analysis of load-balancing policies for free-ﬂoating car-sharing models**, *ACM SIGMETRICS Performance Evaluation Review, Volume 53, Issue 4*, with Christine Fricker and Hanene Mohamed, <a href="https://dl.acm.org/doi/epdf/10.1145/3797823.3797844" target="_blank">acm</a>
+- **Large-scale analysis of load-balancing policies for free-ﬂoating car-sharing models**, *ACM SIGMETRICS Performance Evaluation Review, Volume 53, Issue 4, (2026)*, with Christine Fricker and Hanene Mohamed, <a href="https://dl.acm.org/doi/epdf/10.1145/3797823.3797844" target="_blank">acm</a>
+
 - **Stochastic averaging and mean-field for a large system with fast varying environment with applications to free-floating car-sharing**, *Queuing Systems, Volume 109, article number 27, (2025)*, with Christine Fricker and Hanene Mohamed, <a href="https://hal.science/hal-04714886" target="_blank">hal</a>,
 <a href="https://link.springer.com/article/10.1007/s11134-025-09953-2" target="_blank">QUESTA</a>
     
-
 - **A new stochastic model for car-sharing suited to free-floating**, WCTR2023, *Transportation Research Procedia, 82, 2395–2409, (2025)*,  with Christine Fricker, Hanene Mohamed and Martin Trepanier, <a href="https://www.google.com/url?q=https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS2352146524004939&sa=D" target="_blank">DOI</a>
 
 
