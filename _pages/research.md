@@ -12,7 +12,7 @@ author_profile: false
 
 - **Stochastic averaging and mean-field for a large system with fast varying environment with applications to free-floating car-sharing**,  
   with Christine Fricker and Hanene Mohamed, <a href="https://hal.science/hal-04714886" target="_blank">hal-04714886</a>,
-<ahref="https://link.springer.com/article/10.1007/s11134-025-09953-2" target="_blank">QUESTA</a>
+<a href="https://link.springer.com/article/10.1007/s11134-025-09953-2" target="_blank">QUESTA</a>
    in *Queuing Systems, Volume 109, article number 27, (2025)*
 
 - **A new stochastic model for car-sharing suited to free-floating**, WCTR2023, *Transportation Research Procedia*, 82, 2395–2409, 2025  
