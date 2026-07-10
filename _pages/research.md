@@ -19,10 +19,10 @@ author_profile: false
 ---
 
 ## Talks
-- **2026**, IMPMS, Palermo, Italy  
+- **2026**, Italian Meeting on Probability and Mathematical Statistics, Palermo, Italy  
   *Large-Scale Analysis of Multi-Scale Queuing Networks: Applications to Car-Sharing Systems*
   
-- **2026**, ECQT, Reykjavik, Iceland  
+- **2026**, European Conference on Queueing Theory, Reykjavik, Iceland  
   *Stochastic analysis of a system of particles moving among heterogeneous nodes with fixed capacity*
 
 - **2025**, IFIP Performance Conference, Amsterdam, Netherlands  
