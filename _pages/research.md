@@ -27,6 +27,9 @@ author_profile: false
 - **2026**, European Conference on Queueing Theory, Reykjavik, Iceland  
   *Stochastic analysis of a system of particles moving among heterogeneous nodes with fixed capacity*
 
+- **2026**, DI ENS Seminar, Sète, France
+  *Scaling limits of stochastic network models for car-sharing systems*
+
 - **2025**, IFIP Performance Conference, Amsterdam, Netherlands  
   *Large-scale analysis of load-balancing policies for free-ﬂoating car-sharing models*
 
