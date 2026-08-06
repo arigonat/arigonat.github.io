@@ -7,7 +7,7 @@ author_profile: false
 
 ## Publications and Preprints
 
--**Asymptotics of Parking Search in Hyperfractal Networks**, *37th International Conference on Probabilistic, Combinatorial and Asymptotic Methods for the Analysis of Algorithms (AofA 2026)*, with Geoffrey Deperle, Christine Fricker, Philippe Jacquet and Bernard Mans, <a href="https://arxiv.org/abs/2604.24821" target="_blank">arXiv</a>
+- **Asymptotics of Parking Search in Hyperfractal Networks**, *37th International Conference on Probabilistic, Combinatorial and Asymptotic Methods for the Analysis of Algorithms (AofA 2026)*, with Geoffrey Deperle, Christine Fricker, Philippe Jacquet and Bernard Mans, <a href="https://arxiv.org/abs/2604.24821" target="_blank">arXiv</a>
 
 - **Large-scale analysis of load-balancing policies for free-ﬂoating car-sharing models**, *ACM SIGMETRICS Performance Evaluation Review, Volume 53, Issue 4, (2026)*, with Christine Fricker and Hanene Mohamed, <a href="https://dl.acm.org/doi/epdf/10.1145/3797823.3797844" target="_blank">acm</a>
 
